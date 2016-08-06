@@ -1,0 +1,32 @@
+_repo: Lives-of-the-English-Poets--13-From-Johnson-to-Kirke-White-Designed-as-a-Continuation-of-John__10660
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cary, Henry Francis
+    alias: Cary, H. F. (Henry Francis)
+    birthdate: 1772
+    deathdate: 1844
+    gutenberg_agent_id: '3622'
+    url: http://www.gutenberg.org/2009/agents/3622
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Francis_Cary
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, English -- Biography'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Samuel Johnson -- John Armstrong -- Richard Jago -- Richard Owen
+  Cambridge -- Tobias Smollett -- Thomas Warton -- Joseph Warton -- Christopher Anstey
+  -- William Mason -- Oliver Goldsmith -- Erasmus Darwin -- William Julius Mickle
+  -- James Beattie -- William Hayley -- Sir William Jones -- Thomas Chatterton --
+  Henry Kirke White.
+title: "Lives of the English Poets\r\nFrom Johnson to Kirke White, Designed as a Continuation\
+  \ of Johnson's Lives"
+url: http://www.gutenberg.org/ebooks/10660
